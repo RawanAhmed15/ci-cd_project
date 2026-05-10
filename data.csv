@@ -1,0 +1,11 @@
+Transaction_ID,Product_Name,Category,Price,Quantity,Customer_Type
+101,Laptop,Electronics,1200,1,Premium
+102,Mouse,Electronics,25,2,Normal
+103,Coffee,Groceries,15,5,Premium
+104,Headphones,Electronics,80,1,Normal
+105,Bread,Groceries,3,10,Normal
+106,Monitor,Electronics,300,2,Premium
+107,Milk,Groceries,5,4,Premium
+108,Keyboard,Electronics,45,1,Normal
+109,Apples,Groceries,10,3,Normal
+110,Charger,Electronics,35,2,Premium
